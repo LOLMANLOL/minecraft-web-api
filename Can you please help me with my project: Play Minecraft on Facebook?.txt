@@ -1,0 +1,5 @@
+Hello HackkerFinn,
+
+Can you please debug my project Play Minecraft on Facebook? I used a little bit of your code, but it doesn't work.
+
+Thanks, (sorry for my bad english) (I'm still learning things and php is new for me)
